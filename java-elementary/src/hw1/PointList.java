@@ -40,7 +40,6 @@ public class PointList {
             System.out.println("Точка не в круге");
         }
 
-
     }
 
 }
